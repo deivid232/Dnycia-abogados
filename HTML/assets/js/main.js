@@ -88,9 +88,12 @@ jQuery(function($){
 			slide_links: 'blank',		// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
-							{image : 'assets/img/portada/3si.png', title : '', thumb : '', url : ''},
-							{image : 'assets/img/portada/6.png', title : '', thumb : '', url : ''},
-							{image : 'assets/img/portada/8.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/1.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/2.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/3.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/4.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/5.png', title : '', thumb : '', url : ''},
+
 						],
 		});
 
