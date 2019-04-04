@@ -1,4 +1,24 @@
 /*  Servicios */
+@media only screen and (max-width: 750px) {
+.oculto-responsive {
+	display: none !important;
+ }
+}
+@media only screen and (min-width: 750px) {
+.oculto-compu {
+	display: none !important;
+ }
+}
+
+.nosotros{
+  border-radius: 5px 5px 5px 5px !important;
+  box-shadow: 0 10px 20px  #777  !important;
+  box-sizing: content-box !important;
+}
+.service{
+  box-shadow: 0 10px 20px #777 !important;
+  box-sizing: content-box !important;
+}
 .espace-service{
   margin-bottom: 5vh;
 }
