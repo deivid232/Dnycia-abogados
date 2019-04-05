@@ -161,3 +161,33 @@ hr {
   -webkit-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
 }
+/*  form contact*/
+textarea {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #777;
+  padding: 14px;
+  min-height: 50px;
+  margin: 50px 0 20px 0;
+  -webkit-transition: all 0.3s ease-in-out 0.1s;
+  -moz-transition: all 0.3s ease-in-out 0.1s;
+  -o-transition: all 0.3s ease-in-out 0.1s;
+  -ms-transition: all 0.3s ease-in-out 0.1s;
+  transition: all 0.3s ease-in-out 0.1s;
+}
+.btn-primary {
+  background-color: transparent;
+  color: #e0a801;
+  border: 2px solid #e0a801;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: #e0a801;
+  color: #FFF;
+  border: 2px solid #e0a801;
+}

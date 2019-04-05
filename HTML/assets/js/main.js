@@ -92,7 +92,7 @@ jQuery(function($){
 							{image : 'assets/img/portada1/2.png', title : '', thumb : '', url : ''},
 							{image : 'assets/img/portada1/3.png', title : '', thumb : '', url : ''},
 							{image : 'assets/img/portada1/4.png', title : '', thumb : '', url : ''},
-							{image : 'assets/img/portada1/5.png', title : '', thumb : '', url : ''},
+							{image : 'assets/img/portada1/nosotros1.png', title : '', thumb : '', url : ''},
 
 						],
 		});

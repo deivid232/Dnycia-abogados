@@ -130,12 +130,12 @@ textarea {
 
 input:focus {
   outline: none;
-  border-bottom: 1px solid #CC2424;
+  border-bottom: 1px solid #e0a801;
 }
 
 textarea:focus {
   outline: none;
-  border-bottom: 1px solid #CC2424;
+  border-bottom: 1px solid #e0a801;
 }
 
 .partner-table {
